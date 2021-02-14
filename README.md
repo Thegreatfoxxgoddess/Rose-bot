@@ -11,9 +11,9 @@ group of volunteers to help. We'll also help when a database schema changes, and
 modified/added (this info can also be found in the commit messages)
 
 
-<a href="https://heroku.com/deploy">
-  <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
-</a>
+<p align="center">
+   <a href = "https://heroku.com/deploy?template=https://github.com/thegreatfoxxgoddess/Rose-bot"><img src="https://www.herokucdn.com/deploy/button.svg" alt="Press to Takeoff" width="490px"></a>
+</p>
 
 Marie and I can also be found moderating the [marie support group](https://t.me/MarieSupport) aimed at providing help
 setting up Marie in your chats (*not* for bot clones).
