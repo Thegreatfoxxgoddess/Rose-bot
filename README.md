@@ -11,8 +11,9 @@ group of volunteers to help. We'll also help when a database schema changes, and
 modified/added (this info can also be found in the commit messages)
 
 
-Join the [news channel](https://t.me/MarieNews) if you just want to stay in the loop about new features or
-announcements.
+<a href="https://heroku.com/deploy">
+  <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
+</a>
 
 Marie and I can also be found moderating the [marie support group](https://t.me/MarieSupport) aimed at providing help
 setting up Marie in your chats (*not* for bot clones).
